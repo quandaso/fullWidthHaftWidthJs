@@ -2,7 +2,6 @@
 #Test
 
 	var fullWidth = '１２３４５６７８９０ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ！＂＃＄％＆＇（）＊＋，－．／：；＜＝＞？＠［＼］＾＿｀｛｜｝～';
-
     var haftWidth = '1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}'
-    console.assert(haftWidth.toFullWidth() === fullWidth);
-    console.assert(fullWidth.toHaftWidth() === haftWidth);
+    console.assert(haftWidth.toFullWidth() === fullWidth);//true
+    console.assert(fullWidth.toHaftWidth() === haftWidth);//true
