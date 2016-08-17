@@ -1,4 +1,4 @@
-# Convert javascript string from HaftWidth from to FullWidth form
+# Convert japanese string from HaftWidth from to FullWidth form
 #Test
 
 	var fullWidth = '１２３４５６７８９０ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ！＂＃＄％＆＇（）＊＋，－．／：；＜＝＞？＠［＼］＾＿｀｛｜｝～';
