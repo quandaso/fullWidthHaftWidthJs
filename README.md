@@ -1,1 +1,1 @@
-# fullWidthHaftWidthJs
+# Convert javascript string from HaftWidth from to FullWidth form
